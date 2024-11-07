@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/okieoth/ppipel/examples/queue"
+	"okieoth/go.fun/examples/channel/queue"
 )
 
 type Complex struct {
